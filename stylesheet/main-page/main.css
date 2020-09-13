@@ -106,6 +106,10 @@ small,
   .container {
     height: unset;
   }
+  h2 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
   p {
     max-width: 80%;
     margin-bottom: 50px;
